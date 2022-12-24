@@ -1,0 +1,89 @@
+body{
+    font-family: sans-serif;
+    margin-left: 60px;
+    margin-top: -6px;
+}
+
+.head h1{
+    font-size: 40px;
+    display: inline;
+}
+.head span{
+    font-size: 15px;
+}
+.head{
+    display: inline;
+}
+
+.experience h3{
+    margin-top: 50px;
+    color: rgb(14, 138, 234);
+}
+.experience p{
+    font-size: 15px;
+}
+.experience span{
+    font-size: 15px;
+    font-weight: lighter;
+}
+.experience{
+    width: 1000px;
+    margin-top: -20px;
+}
+
+.education h3{
+    margin-top: 50px;
+    color: rgb(14, 138, 234);
+}
+.education{
+    width: 1000px;
+    margin-top: -20px;
+}
+
+.info{
+    margin-left: 1232px;
+    margin-top: -719px;
+    font-size: 13px;
+}
+
+.skills h3{
+    margin-top: 50px;
+    color: rgb(14, 138, 234);
+}
+.skills p{
+    font-size: 15px;
+    font-weight: lighter;
+}
+.skills{
+    width: 200px;
+    margin-left: 1232px;
+    margin-top: -30px;
+}
+
+.awards h3{
+    margin-top: 50px;
+    color: rgb(14, 138, 234);
+}
+.awards{
+    width: 200px;
+    margin-left: 1232px;
+    margin-top: -30px;
+}
+.awards p{
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.languages h3{
+    margin-top: 50px;
+    color: rgb(14, 138, 234);
+}
+.languages{
+    width: 200px;
+    margin-left: 1232px;
+    margin-top: -30px;
+}
+.languages span{
+    font-size: 15px;
+    font-weight: lighter;
+}
